@@ -3,7 +3,6 @@
 <br />
 <div align="center">
 
-<img src="readme-images/logo.png" alt="BookHub Logo" width="100" style="border-radius: 12px;"/>
 
 ## 📚 BookHub – Book Website  
 A clean and elegant **Book Website UI** built with HTML, CSS, and JavaScript.  
